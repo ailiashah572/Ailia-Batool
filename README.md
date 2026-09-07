@@ -1,4 +1,4 @@
-# Ailia-Batool
+# Cybersecurity lab
 repository for storing cybersecurity assignments
 
 #Student Information:
